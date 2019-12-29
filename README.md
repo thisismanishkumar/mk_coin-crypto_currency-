@@ -1,4 +1,4 @@
-# crypto_currency
+# MK_Coin
 Here are three servers for your conviennce. Differ only by account holder name and their port number.
 By this way you can send money to your known and can save transactions in blockchain .
 With the help of __POSTMAN__ certain kind of.
