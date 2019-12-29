@@ -15,7 +15,7 @@ __GET__ request are:-
 
  __POST__ request are:-
 - add_transaction
-  * In this requests post __JSON__ format r given in [transactions.json](/transactions.json) format.
+  * In this requests, Post __JSON__ format given in [transactions.json](/transactions.json) format.
 - connect_node
   * It used to connect list of nodes. Post requests in __JSON__ format given in [nodes.json](/nodes.json) format.  
 
