@@ -1,5 +1,8 @@
-# Module 1 Create CryptoCurrency
-# pip install requests==2.18.4
+# To be installed:
+# Flask==0.12.2: pip install Flask==0.12.2
+# Postman HTTP Client: https://www.getpostman.com/
+# requests==2.18.4: pip install requests==2.18.4
+
 
 import datetime
 import hashlib
@@ -13,8 +16,6 @@ import requests
 
 # part 1 -Building Blockchain
 
-# One change
-#two change
 class Blockchain:
     def __init__(self):
         self.chain = []
@@ -191,4 +192,6 @@ def replace_chain():
 
 
 # running app
+# Port number is 5001
+
 app.run(host='0.0.0.0', port=5001)
