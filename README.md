@@ -19,3 +19,8 @@ __GET__ request are:-
 
 ## As we are using __Flask__ framework to connect Web application, So default address is:-
 ### http://127.0.0.1: __Port Number__ / __Request__
+
+## To be installed:
++ Flask==0.12.2: pip install Flask==0.12.2
++ Postman HTTP Client: https://www.getpostman.com/
++ (requests library) pip install requests==2.18.4
