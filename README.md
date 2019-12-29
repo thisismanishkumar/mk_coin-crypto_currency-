@@ -2,6 +2,7 @@
 Here are three servers for your conviennce. Differ only by account holder name and their port number.
 By this way you can send money to your known and can save transactions in blockchain .
 With the help of __POSTMAN__ certain kind of.
+
 __GET__ request are:-
 + mine_block
   * This should be executed first to create __Genesis Block__ .It creates a block having transactions. 
